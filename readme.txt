@@ -33,7 +33,9 @@ TODO
 	- archivace vlastní stopy na internetu
 	- plnohodnotný fultext na daný obor a téma (už jsem jednou něco vyřešil? tak pošlu jen odkaz)
 
-- vymyslet lepší název
+- plugin do prohlížeče?
+
+- vymyslet lepší název (What I Know?)
 
 
 Jak to bude fungovat?
