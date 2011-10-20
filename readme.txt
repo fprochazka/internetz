@@ -33,6 +33,8 @@ TODO
 	- archivace vlastní stopy na internetu
 	- plnohodnotný fultext na daný obor a téma (už jsem jednou něco vyřešil? tak pošlu jen odkaz)
 
+- vymyslet lepší název
+
 
 Jak to bude fungovat?
 =====================
