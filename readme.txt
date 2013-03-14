@@ -3,7 +3,7 @@ Internetz
 
 Toto je projekt ve fázi nápadu
 
-Pokud mě http://meevl.com/ sklame, tak napíšu vlastní "aggregátor internetu".
+Pokud mě http://meevl.com/ zklame, tak napíšu vlastní "aggregátor internetu".
 
 
 TODO
